@@ -1,0 +1,10 @@
+8
+				HGW Hogwarts	GTH Gotham	NNA Narnia	ASG Asgard	TSH The_Shire	MlD Malgudi	RVD Rivendale	DGA Diagon_Alley
+HGW Hogwarts 		0	30	13	28	29	7	6	43
+GTH Gotham			44	0	29	25	24	16	43	-1
+NNA Narnia			33	20	0	47	-1	-1	-1	35
+ASG Asgard			23	-1	20	0	11	-1	31	29
+TSH The_Shire		23	41	28	39	0	18	-1	-1
+MLD Malgudi			18	45	20	48	37	0	39	9
+RVD Rivendale		20	21	7	28	35	-1	0	22
+DGA Diagon_Alley	-1	23	17	8	5	43	-1	0

@@ -1,0 +1,17 @@
+15
+				HGW Hogwarts	GTH Gotham	NNA Narnia	ASG Asgard	TSH The_Shire	MlD Malgudi	RVD Rivendale	DGA Diagon_Alley	SWF Swallow_Falls	KGL King's_Landing	PDA Pandora	LPT Lilliput	JSP Jurassic_Park	CTP Central_Perk	DGS Dragonstone	
+HGW Hogwarts 		0	30	13	28	29	7	6	43	2	21	18	39	-1	29	27
+GTH Gotham			44	0	29	25	24	16	43	-1	-1	50	8	33	44	17	-1
+NNA Narnia			33	20	0	47	-1	-1	-1	35	-1	44	19	34	45	12	37
+ASG Asgard			23	-1	20	0	11	-1	31	29	4	21	43	9	50	32	35
+TSH The_Shire		23	41	28	39	0	18	-1	-1	-1	17	36	23	30	33	30
+MLD Malgudi			18	45	20	48	37	0	39	9	30	16	-1	-1	6	-1	32
+RVD Rivendale		20	21	7	28	35	-1	0	22	34	29	20	7	42	-1	29
+DGA Diagon_Alley	-1	23	17	8	5	43	-1	0	49	40	34	20	17	8	20
+SWF Swallow_Falls	8	40	11	3	3	49	27	1	0	2	47	-1	11	25	31
+KGL King's_Landing	2	8	-1	25	-1	3	25	-1	7	0	23	-1	42	10	46
+PDA Pandora			-1	28	10	35	15	40	16	-1	40	9	0	26	19	49	-1
+LPT Lilliput		45	48	47	29	48	19	7	29	18	-1	31	0	-1	22	13
+JSP Jurassic_Park	43	14	43	15	48	-1	49	22	-1	22	6	42	0	9	10
+CTP Central_Perk	47	29	35	34	1	31	31	33	48	10	-1	49	37	0	19
+DGS Dragonstone		6	24	30	39	1	47	10	19	25	8	33	43	-1	44	0

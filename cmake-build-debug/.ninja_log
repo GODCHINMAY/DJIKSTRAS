@@ -1,0 +1,7 @@
+# ninja log v6
+2	1126	1733257378607544854	CMakeFiles/DjikstraProject.dir/graphMain.cpp.o	9e9b582da92863a6
+14	1167	1733257507104946173	CMakeFiles/DjikstraProject.dir/Dijkstra.cpp.o	9586676174a69e20
+1170	1327	1733257508260361422	DjikstraProject	6abff0276f553f97
+10	1304	1733757710054569612	CMakeFiles/DjikstraProject.dir/Dijkstra.cpp.o	9586676174a69e20
+6	1155	1733758068240418815	CMakeFiles/DjikstraProject.dir/Dijkstra.cpp.o	9586676174a69e20
+1157	1318	1733758069391465485	DjikstraProject	6abff0276f553f97
